@@ -1,5 +1,5 @@
 readme: Test Code
-1. The submitted file contains : 
+1. The code file contains : 
 	SQTraining.py
 	DQLTraining.py 
 	P3Testcode.py

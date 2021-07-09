@@ -1,0 +1,13 @@
+1. Basic understanding of RL
+https://towardsdatascience.com/what-is-tabulated-reinforcement-learning-81eb8636f478
+
+2. what is Deep RL
+https://towardsdatascience.com/what-is-deep-reinforcement-learning-de5b7aa65778
+
+
+3. AI playing Atari Pong using Tensor flow and Python
+https://towardsdatascience.com/getting-an-ai-to-play-atari-pong-with-deep-reinforcement-learning-47b0c56e78ae
+
+4.  Playing Atari with Deep Reinforcement Learning arXiv:1312.5602v1 
+
+5. Deep Reinforcement Learning with Double Q-learning arXiv:1509.06461v3
